@@ -1,0 +1,46 @@
+export const doctors = [
+    {
+        id:1,
+        name:'Nishanth',
+        Proffesion:'Physio',
+        exp:25,
+        url:'https://media.istockphoto.com/id/1203995945/photo/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-hospital-corridor.jpg?s=612x612&w=0&k=20&c=Hk-dqLqHXyYa4aTqjieXNk9-HQSE8WEYUAjA1sXsy_s='
+    },
+    {
+        id:2,
+        name:'Lakshni',
+        Proffesion:'Pediatrician',
+        exp:20,
+        url:'https://img.freepik.com/free-vector/doctor-character-background_1270-84.jpg?w=2000'
+    },
+    
+    {
+        id:3,
+        name:'Shilbha',
+        Proffesion:'Psychologist',
+        exp:21,
+        url:'https://img.freepik.com/free-photo/pleased-young-female-doctor-wearing-medical-robe-stethoscope-around-neck-standing-with-closed-posture_409827-254.jpg?w=2000'
+    },
+    {
+        id:4,
+        name:'Sekar',
+        Proffesion:'Neurologist',
+        exp:23,
+        url:'https://img.freepik.com/free-photo/woman-doctor-wearing-lab-coat-with-stethoscope-isolated_1303-29791.jpg?w=2000'
+    },
+    {
+        id:5,
+        name:'Sathish',
+        Proffesion:'Cardiologist',
+        exp:27,
+        url:'https://media.istockphoto.com/id/1390000431/photo/shot-of-a-mature-doctor-using-a-digital-tablet-in-a-modern-hospital.jpg?b=1&s=170667a&w=0&k=20&c=Jxhk_KZSo9oSZ01Nv8TxjCKKEVZQJFVWICZb64AEIMQ='
+    },
+    {
+        id:6,
+        name:'Srinivasan',
+        Proffesion:'Dermatologist',
+        exp:24,
+        url:'https://thumbs.dreamstime.com/b/smiling-female-doctor-holding-medical-records-lab-coat-her-office-clipboard-looking-camera-56673035.jpg'
+    },
+    
+]
